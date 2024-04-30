@@ -1,5 +1,15 @@
-### Hi there 👋
+### 🎮 Game Programmer/Software Developer 💻
 
+##### Hi I'm Citlalli! ~
+
+👩‍💻 [Currently looking for work](https://www.linkedin.com/in/citlalli-hernandez-80b4052b0/)
+
+🌐 [Find my Portfolio](https://cherna85.github.io/Portfolio/)
+
+🕹️ [Play some Games](https://citlalli-h.itch.io/)
+<!--
+📷 [Follow me on Instagram ](https://citlalli-h.itch.io/)
+-->
 <!--
 **cherna85/cherna85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
