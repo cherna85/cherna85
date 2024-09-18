@@ -2,7 +2,7 @@
 
 ##### Hi I'm Citlalli! ~
 
-👩‍💻 [Currently looking for work](https://www.linkedin.com/in/citlalli-hernandez-80b4052b0/)
+👩‍💻 [Get connected with me!](https://www.linkedin.com/in/citlalli-hernandez-80b4052b0/)
 
 🌐 [Find my Portfolio](https://cherna85.github.io/Portfolio/)
 
